@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the seven United Provinces of Netherland wherein is set forth the quality of the country, the productions of the soyl, the trade, manufactures, customes manners and dispositions of the people, the constitution of their laws, the number of the towns, cities and fortification, the original, strength, greatness and riches of each city : together with an exact map of the whole county wherein is laid down the scituations of every city, town, village, castle, fort, and every other remarkable place throughout the whole of the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35775</idno>
+            <idno type="STC">Wing D1169</idno>
+            <idno type="STC">ESTC R13200</idno>
+            <idno type="EEBO-CITATION">12716093</idno>
+            <idno type="OCLC">ocm 12716093</idno>
+            <idno type="VID">66226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the seven United Provinces of Netherland wherein is set forth the quality of the country, the productions of the soyl, the trade, manufactures, customes manners and dispositions of the people, the constitution of their laws, the number of the towns, cities and fortification, the original, strength, greatness and riches of each city : together with an exact map of the whole county wherein is laid down the scituations of every city, town, village, castle, fort, and every other remarkable place throughout the whole of the land.</title>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Moxon ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Imperfect: lacks map.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66226:1"/>
+            <pb facs="tcp:66226:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE Seven UNITED PROVINCES OF NETHERLAND.</p>
+            <p>WHEREIN IS SET FORTH
+<list>
+                  <item>The Quality of the Country.</item>
+                  <item>The Productions of the Soyl.</item>
+                  <item>The Trade, Manufactures, Cuſtoms, Manners, and Diſpoſiti<g ref="char:EOLhyphen"/>ons of the People.</item>
+                  <item>The Conſtitution of their Laws.</item>
+                  <item>The Number of the Towns, Cities, and Fortifications.</item>
+                  <item>The Original, Strength, Greatneſs; and Riches of each City.</item>
+                  <item>Together with an Exact Map of the whole <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> wherein is laid down the Scituation of every City, Town, Village, Caſtle, Fort, and every other Ramarkable <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the whole LAND.</item>
+               </list>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSEED.</p>
+                        <closer>
+                           <signed>Roger L'eſtrange</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Joſeph Moxon,</hi> and Sold at his Shop on <hi>Ludgate-Hill</hi> neer <hi>Fleet-Bridge,</hi> at the Signe of <hi>Atlas.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66226:2"/>
+            <pb facs="tcp:66226:2"/>
+            <head>A brief Deſcription of the Seven Provinces OF THE UNITED NETHERLANDS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands</hi> is part of <hi>Belgia</hi> or <hi>Lower Germany;</hi> bounded on the Eaſt with <hi>Weſtphalia,</hi> on the Weſt with the <hi>North Sea,</hi> on the North with <hi>Embdenland,</hi> and on the South with <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Brabant.</hi>
+            </p>
+            <p>It conſiſts of the Provinces of <hi>Gelderland, Hol<g ref="char:EOLhyphen"/>and, Zealand, Frieſland, <g ref="char:V">Ʋ</g>trecht, Overyſſel, Zutphen</hi> and <hi>Groen<g ref="char:EOLhyphen"/>nghen,</hi> part of <hi>Brabant</hi> and part of <hi>Flanders.</hi>
+            </p>
+            <p>Theſe Provinces are called the <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands,</hi> from an Agreement and Contract made among themſelves in the year <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>571, to throw off their Subjection and Allegiance to the King of <hi>Spain</hi> their Soveraign Lord, and to unite all their Power and Force againſt him.</p>
+            <p>But though they thus united their Power, yet are all theſe Provinces, yea and moſt of their Cities in each Province, diſtinct Commonwealths of themſelves, and governed by Laws and Cuſtoms different from each other. Only for managing of Publique Affairs, each Province and City of note ſends their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tates or Truſtees to the <hi>Hague,</hi> where they debate Affairs in a Parliamentary order. And theſe States thus aſſembled, are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alled the <hi>States General,</hi> or, as they ſtile themſelves, <hi>The High and Mighty States of the <g ref="char:V">Ʋ</g>nited Netherlands.</hi>
+            </p>
+            <p>In Councel with theſe States ſate formerly the Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi> General of their Armies, who for his many Services done againſt the <hi>Spaniards</hi> ſince their foreſaid Revolt, was by them made Stadt-holder, Admiral of the Seas, <hi>&amp;c.</hi> and al<g ref="char:EOLhyphen"/>lowed in their Aſſembly a double Voice; which Offices and
+<pb n="4" facs="tcp:66226:3"/>Titles have ſince deſcended to his Heirs the Succeſſive Princes of <hi>Orange.</hi> But in the year 16 Faction and Jealouſie ſuggeſted to ſome Leading Men in their Councels, that ſo much Authority was not fit to be inveſted in a Sngle Perſon, leſt by his Power he ſhould change their Commonwealth into a Monarchy, and of Free States make them all his Subjects. To prevent which danger, they Voted that the Generalſhip belonged not to the Prince of <hi>Orange</hi> as his Right, but their Courteſie; and made an Edict, that for the future there ſhould be no more Stadt-hol<g ref="char:EOLhyphen"/>der; and cauſed all the States General to take an Oath to ob<g ref="char:EOLhyphen"/>ſerve this Edict inviolably. Nay, when this preſent Prince of <hi>Orange</hi> in the year 16 was made General of their Armies, they cauſed him to ſwear never to accept of the Office of Stadt-hol<g ref="char:EOLhyphen"/>der. But this ſeems only the humour of the <hi>Hogen Mogens,</hi> and not the voice of the People: for they remembring the many good Offices of his Forefathers done for the State, cry out againſt theſe proceedings with him; and taking an advantage of the preſent troubles their Country is in, in a tumultuous manner force the States to abjure their former Edict, and abſolve the Prince of <hi>Orange</hi> of his foreſaid Oath, and make him their Stadt-holder, Amiral, Diſpoſer of the Militia, and in their Aſſemblies to have a double Voice, as his Forefathers had. But to the Deſcription of the Country; and Firſt</p>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Gelderland.</head>
+               <p>THe Land now called <hi>Gelderland,</hi> or <hi>Gelve,</hi> was formerly called <hi>Ponthis;</hi> and had from <hi>Charles</hi> the Emperour the additional name <hi>De Caluwe.</hi> It was firſt made a Lordſhip in the year 878. Its firſt Lord (as <hi>Guicciardine</hi> relates) was <hi>Win<g ref="char:EOLhyphen"/>chard van Pont,</hi> who with his Brother <hi>Leopold</hi> built the Caſtle <hi>Pont-Gelve,</hi> which now is the City of <hi>Gelder,</hi> and gives name to the whole Province. It is a ſtrong City.</p>
+               <p>This Province is begirt in the North with the Land of <hi>Overyſſel</hi> and the <hi>South-Sea;</hi> On the South, in part with the <hi>Maſe</hi> and the Lordſhip of <hi>Gulicb;</hi> in the Weſt with the <hi>Rhine,</hi> and part of <hi>Cleveland;</hi> and in the Eaſt with the Biſhoprick of <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi> It
+<pb n="5" facs="tcp:66226:3"/>is a plain Country, with few Hills, but many delightful and profitable Woods, as that of <hi>Echterwalt</hi> to the Northweſt of <hi>Aernhem,</hi> and ſeveral others. The Soyl is generally very fruit<g ref="char:EOLhyphen"/>ful, particularly of Corn; and in many places, eſpecially about the <hi>Rhine, Maſe,</hi> and <hi>Wael,</hi> excellent Meadows for feeding of Cattle, which there are kept in great abundance.</p>
+               <p>In this Dakedom (beſides that of <hi>Zutphen</hi> and its ſeven Vil<g ref="char:EOLhyphen"/>lages, which is an Earldom of it ſelf, and therefore ſhall be diſ<g ref="char:EOLhyphen"/>courſed in its proper place) are numbred fifteen walled Cities; as <hi>Nimmegen, Aernhem,</hi> and <hi>Reurmond,</hi> the three head-Cities; then <hi>Tiel, Bommel, Harderwijck, Wageninghen, Hattem, Elburg, Gelder, Venlo, Wachten, Douck, Stralen,</hi> and <hi>Erckelens.</hi> There are ſeveral other Towns in the Dukedom of <hi>Gelder,</hi> and Earl<g ref="char:EOLhyphen"/>dom of <hi>Zutphen,</hi> that have been formerly walled; but by ſeve<g ref="char:EOLhyphen"/>ral accidents have wholly or in part loſt their Walls, but yet re<g ref="char:EOLhyphen"/>tain their ancient Priviledges, as <hi>Batenburgh, Gent, Montfort, Echt, Burgh, Keppel,</hi> and ſeveral others. There are moreover above 300 Villages with Pariſh-Churches.</p>
+               <p>The States of the Dukedom of <hi>Gelder,</hi> and Earldom of <hi>Zut<g ref="char:EOLhyphen"/>phen,</hi> conſiſt of the Barons, Gentry, and the four head-Cities a<g ref="char:EOLhyphen"/>foreſaid, <hi>viz. Nimmegen, Aerahem, Reurmond,</hi> and <hi>Zutphen.</hi>
+               </p>
+               <p>
+                  <hi>Nimmegen</hi> was formerly called <hi>Magus,</hi> from one <hi>Magus</hi> King of <hi>Gallia;</hi> but afterwards when one <hi>Bato</hi> King of the <hi>Katts</hi> came into the Land, and being delighted as well with the con<g ref="char:EOLhyphen"/>venience of its ſcituation as the antiquity of the Place, he rebuilt and enlarged this almoſt-ruin'd City, and fortified it with three ſtrong Walls, and called the City <hi>Nava Magen;</hi> which name be length of time is now altered into <hi>Nimmegen.</hi> Our Author tells us alſo, that the <hi>Betuwers,</hi> which he calls <hi>Bataviers,</hi> choſe this City for the Metropolis and chief Seat of their Kingdom; from whence the Land about it is at this day called the Kingdom of <hi>Nimmegen;</hi> and the City it ſelf by Latine Authors <hi>Pes Im<g ref="char:EOLhyphen"/>perii,</hi> becauſe, as ſome write, <hi>Charles</hi> the Great advanced it to the dignity of one of the three Royal Cities of theſe Lands: <hi>Aken</hi> being the Firſt, <hi>this</hi> the Second, and <hi>Theonville</hi> in the Land of <hi>Lutzenburg</hi> the Third.</p>
+               <p>
+                  <hi>Nimmegen</hi> lies upon an arm of the <hi>Rhine</hi> called the <hi>Wael,</hi>
+                  <pb n="6" facs="tcp:66226:4"/>which there is very wide and deep. It is a great, ſtrong, and populous City, whoſe Inhabitants after they came under the <hi>Ooſtenrijk</hi> Princes, much addicted themſelves to Learning and Merchandiſe, when as before they only followed the Wars. The chief Church in this City is dedicated to the honour of St. <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> the firſt Martyr.</p>
+               <p>Among the ancient Buildings of this City, the chief is the Caſtle, ſcituate upon the top of an high Hill, from whence the whole City is diſcovered. This is held to be built by <hi>Julius Caeſar,</hi> who by the means of this Caſtle intended to keep the Country about it in ſubjection to his power. In and about this City hath been found for ſeveral years laſt paſt, many Antiqui<g ref="char:EOLhyphen"/>ties of the ancient <hi>Romans,</hi> even as about the banks of the <hi>Wael</hi> ſeveral Remnants and Ruines of <hi>Roman</hi> Fortifications are to be ſeen at this day; from whence thoſe Places are yet called the <hi>Roman Footing.</hi>
+               </p>
+               <p>
+                  <hi>Nimmegen</hi> is a City-Earldom, a free City, a member of the Kingdom, and Coyns money by their own Authority, and therefore makes no appeals to the Chancery of <hi>Gelderland,</hi> but at the firſt inſtance only to <hi>Aken:</hi> wherefore the Citizens of this City, as an acknowledgment of their ſuperiority in the Com<g ref="char:EOLhyphen"/>monwealth, ſend yearly a Glove full of Pepper; which is all the Tax they contribute towards the Publique charges. Yet doth not this Priviledge of theirs diminiſh the Authority of the States of <hi>Gelder,</hi> but they have likewiſe power to Coyn Money, and have the ſame Juriſdiction in this City as in other Cities of <hi>Gelderland.</hi>
+               </p>
+               <p>
+                  <hi>Nimmegen</hi> came under the Power of the Dukedom of <hi>Gelders</hi> in the year 1248, by this means. Earl <hi>Otto</hi> the ſecond of <hi>Gel<g ref="char:EOLhyphen"/>der</hi> lent <hi>William</hi> Earl of <hi>Holland</hi> and King of <hi>Rome</hi> 21000 Mark of Silver, on condition that if he repaid it not again on a ſet day, that then this City and its Appurtenances ſhould be forfeit to him. This condition the Emperour <hi>Rodoiphus</hi> the firſt confirmed. And becauſe the money was not accordingly reſtored, <hi>Nimmegen</hi> was incorporate into the Dukedom of <hi>Gel<g ref="char:EOLhyphen"/>derland.</hi>
+               </p>
+               <p>
+                  <hi>Aerenhem</hi> is by <hi>Cornelius Taeitus</hi> and other ancient Writers
+<pb n="7" facs="tcp:66226:4"/>called <hi>Arenacum.</hi> It lies on the right ſide of the <hi>Rhine,</hi> about a mile and half from the place where it divides it ſelf into two branches, between <hi>Nimmegen</hi> and <hi>Doesburg,</hi> which lie each 6 miles from thence. It is a pretty, large, and well-built City, with fair and well-ornamented Churches in it, the chief of which is dedicated to the honour of S. <hi>Euſebius,</hi> in which Church lies buried <hi>Charles</hi> the firſt Duke of <hi>Gelderland,</hi> who died in the year 1538; after whoſe death, he dying without iſſue, the Dukedom of <hi>Gelderland</hi> and Earldom of <hi>Zutphen</hi> de<g ref="char:EOLhyphen"/>ſcended by Contract to the aforeſaid Emperour and his lawful Heirs, as Dukes of <hi>Brahant</hi> and Earls of <hi>Holland.</hi>
+               </p>
+               <p>
+                  <hi>Aernhem</hi> us'd in ancient times to be the general place of reſi<g ref="char:EOLhyphen"/>dence of the Dukes of <hi>Gelders.</hi> It was firſt compaſſed with Walls, and endowed with City-Priviledges by <hi>Otto</hi> the third of <hi>Naſſow,</hi> Duke of <hi>Gelderland.</hi>
+               </p>
+               <p>Here reſides the Provincial Court or Chancery of theſe two Countries, conſiſting of a Chancellour and ten Judges; four of which are of the greateſt Nobility of the Land, from each Quarter or Circuit one: The other ſix are of Perſons learned in the Law. From the Decrees of this Chancery there is no appeal: yet upon ſome Grounds another hearing may be had. Moreover, <hi>Philip</hi> the ſecond King of <hi>Spain,</hi> as Duke of <hi>Gelder,</hi> erected in <hi>Aernhem</hi> a Chamber of Accounts, conſiſting of two Accountants, an Audi<g ref="char:EOLhyphen"/>tor, and a Secretary. At this Chamber of Accounts muſt all the Officers (both Civil and Military) of the Commonwealth of <hi>Gelder</hi> and <hi>Zutphen</hi> give up the Accounts of their Truſt.</p>
+               <p>
+                  <hi>Aernhem</hi> is the Head-City of the fourth quarter of the Go<g ref="char:EOLhyphen"/>vernment of <hi>Gelder, viz.</hi> the Quarter called the <hi>Veluwe;</hi> and hath incorporated with it <hi>Wageningen, Hattem, Harderwijck,</hi> and <hi>Elburg,</hi> all walled Cities, beſides ſeveral Villages that keep Courts of Judicature, but with appeal to the upper Courts of this Circuit aforeſaid.</p>
+               <p>The <hi>Veluwe</hi> is a ſmall Country begirt on threeſides with the South Sea, and on the fourth with the <hi>Rhine</hi> and <hi>Yſſel;</hi> ſo that it is a place both excellent and profitable for Fiſhing, and is beſide reaſonably well provided of Woods and Forreſt full of Game.</p>
+               <pb n="8" facs="tcp:66226:5"/>
+               <p>By <hi>Aernhem</hi> lies another neck of Land called the <hi>Veluwe-Zoom,</hi> and extends on one ſide as far as <hi>Zutphen,</hi> and on the o<g ref="char:EOLhyphen"/>ther ſide about <hi>Wagener;</hi> which is all Meadow-Grounds, and well furniſhed with ſtore of Cattle.</p>
+               <p>At the mouth of the River <hi>Ruer,</hi> or <hi>Roer</hi> (which mingles with the <hi>Maſe</hi>) lies the City <hi>Ruermond,</hi> from whence it takes its name; which commonly for ſhortneſs is called <hi>Remond;</hi> a fair and rich City, and as well for its ſcituation, natural accommo<g ref="char:EOLhyphen"/>dations, and Populouſneſs, is a ſtrong Place; whoſe chief Church is Dedicated to the honour of the <hi>Holy Ghoſt,</hi> and Dig<g ref="char:EOLhyphen"/>nified with the Title of a Cathedral.</p>
+               <p>
+                  <hi>Ruermond</hi> is the Head-City of the ſecond Quarter of <hi>Gelder<g ref="char:EOLhyphen"/>land,</hi> and to it belongs <hi>Venlo, Gelder, Stralen, Wachtendonck,</hi> and <hi>Erckelens;</hi> with the Freedoms of <hi>Monford, Echt,</hi> and <hi>Niewerſtat,</hi> lying about four Miles diſtant from one another; as alſo that of <hi>Keſſel, Midler,</hi> and <hi>Kreckenſteel,</hi> belonging to its par<g ref="char:EOLhyphen"/>ticular Lords. It is a fair Village, and hath belonging to it a ſtrong Caſtle ſeated upon a Hill. This Village takes its name from the ſmall circumjacent Country called <hi>Keſſel,</hi> which be<g ref="char:EOLhyphen"/>longs to the Dukedom.</p>
+               <p>The ſmaller Towns of <hi>Gelderland</hi> we ſhall briefly run over. As <hi>Hattem,</hi> a little, but ſtrong Town, having a Caſtle whoſe Walls are 24 foot thick; lying on the left hand of the <hi>Yſſel,</hi> a<g ref="char:EOLhyphen"/>bout 8 Miles from <hi>Elburg.</hi>
+               </p>
+               <p>
+                  <hi>Elburg</hi> is a little Town; It lies on the Eaſt-ſide of the <hi>South-Sea,</hi> 8 Miles diſtant from <hi>Harderwijck.</hi>
+               </p>
+               <p>
+                  <hi>Harderwijck</hi> lies on the <hi>South-Sea,</hi> 20 Miles from <hi>Wagenin<g ref="char:EOLhyphen"/>gen;</hi> formerly a Village, but made a Town, and walled about, in the year 1229, by Earl <hi>Otto</hi> the ſecond of <hi>Gelderland,</hi> who alſo walled <hi>Aernhem, Bommel, Ruermond, Goch,</hi> and <hi>Wageningen;</hi> formerly all Villages, but by him made Towns. In this Town is by the States of <hi>Gelder</hi> and <hi>Zutphen</hi> a famous School erected, wherein is read Philoſophy and Divinity, but neither Law nor Phyſick.</p>
+               <p>
+                  <hi>Wageningen</hi> is a ſmall, but ſtrong Town, and very Ancient, if it be the ſame (as it is held) which <hi>Cornelius Tacitus</hi> calls <hi>Vada.</hi> It lies 8 Miles from <hi>Aernhem,</hi> and as much from <hi>Nimmegen.</hi>
+               </p>
+               <pb n="9" facs="tcp:66226:5"/>
+               <p>
+                  <hi>Tiel</hi> lies on the right ſide of the <hi>Wael,</hi> 8 Miles from <hi>Bommel;</hi> is a good ſtrong Town, whoſe power and juriſdiction reaches all over the little Iſland wherein it lies, and from whoſe name the Iſland it ſelf is called the <hi>World of Tiel.</hi>
+               </p>
+               <p>
+                  <hi>Bommel</hi> lies on the left ſide of the <hi>Wael.</hi> It is a good ſtrong Town, and Head of that Iſland, which from it is called <hi>Bommel-weerd.</hi> This Iſle is made of the <hi>Rhine</hi> and <hi>Maſe,</hi> which together encompaſs it, and, as <hi>Guicciardine</hi> ſuppoſes, is the ſame that <hi>Caeſar</hi> where he treats of the <hi>Moſe</hi> calls the <hi>Iſle of Bataviers.</hi> In this Iſland are many fair Villages, and particularly <hi>Roſſem,</hi> the Birth-place of that famous Warriour <hi>Martin van Roſſem.</hi> At this time <hi>Bommel</hi> is accounted one of the beſt and ſtrongeſt fron<g ref="char:EOLhyphen"/>tier Towns of the <hi>
+                     <g ref="char:V">Ʋ</g>nited Netherlands:</hi> As alſo is that ſtrong Fortification</p>
+               <p>
+                  <hi>St. Andies,</hi> which lies above <hi>Roſſem</hi> in the Peninſula, which can with its Bulwarks command both the <hi>Wael</hi> and the <hi>Maſe.</hi>
+               </p>
+               <p>
+                  <hi>Stralen</hi> is a ſmall, but ſtrong Town, and lies about 6 Miles from <hi>Wachtendonck.</hi>
+               </p>
+               <p>
+                  <hi>Venlo</hi> lies about 6 Miles on the right hand of the <hi>Moſe.</hi> It is a good and ſtrong Town, where in the year 1543 the Duke of <hi>Clove</hi> delivered himſelf to <hi>Charles</hi> the Fifth, together with all his right and pretenſions to the Dukedom of <hi>Gelderland</hi> and Earldom of <hi>Zutphen;</hi> to which the Eſtates of the Land alſo a<g ref="char:EOLhyphen"/>greed. It was taken in the year 1632 by the States of the <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ted Netherlands,</hi> under the Conduct of the Prince of <hi>Orange,</hi> as alſo was <hi>Stralen</hi> and <hi>Ruermond.</hi>
+               </p>
+               <p>
+                  <hi>Wachtendonck</hi> lies upon the banck of the River <hi>Niers.</hi>
+               </p>
+               <p>
+                  <hi>Elekelens</hi> lies upon the Frontiers of the Dukedom of <hi>Gulick,</hi> about 4 Miles from <hi>Ruermond.</hi> The Soyl about it is very fruit<g ref="char:EOLhyphen"/>ful of good Wheat and other Grain, inſomuch that the Inha<g ref="char:EOLhyphen"/>bitants addict themſelves moſt to Husbandry.</p>
+               <p>Theſe being all the walled Cities and Towns of <hi>Gelderland,</hi> we ſhould here end this Diſcourſe: but in regard the Earldoms of <hi>Kuylenburg</hi> and <hi>Buren</hi> are pretended to belong to the Go<g ref="char:EOLhyphen"/>vernment of <hi>Gelder,</hi> and are however Members of it, we ſhall briefly touch at them.</p>
+               <p>
+                  <hi>Kuylenburg</hi> is a fair Town, whoſe Command and Juriſdiction
+<pb n="10" facs="tcp:66226:6"/>hath a large extent. It lies, on the leſt ſide of the water-ſtood Lacke, four Miles from <hi>Boren.</hi> It was raiſed to an Earldom by King <hi>Philip</hi> the Second of <hi>Spain,</hi> and by him endowed with great Priviledges.</p>
+               <p>
+                  <hi>Buren</hi> is no Member of <hi>Gelder,</hi> and yet lies within the Duke<g ref="char:EOLhyphen"/>dom. The City lies by the Flood <hi>Linge,</hi> four Miles from <hi>Tiel.</hi> It hath a Caſtle 1360 Paces in compaſs; on it four Towers, and about it three double Moats. It bears alſo the name of an Earldom, and hath juriſdiction over many Villages and conſi<g ref="char:EOLhyphen"/>derable derable quantity of Grounds. It belongs to the Prince of <hi>O<g ref="char:EOLhyphen"/>range.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Earldom of <hi>Holland.</hi>
+               </head>
+               <p>SOme Writers ſuppoſe it is called <hi>Holland</hi> from <hi>Holt,</hi> which in the <hi>Germane</hi> Language ſignifies <hi>Wood;</hi> becauſe in An<g ref="char:EOLhyphen"/>cient times, as they ſay, <hi>Holland</hi> was much overgrown with Woods. Others draw the name from the lowneſs and hollow<g ref="char:EOLhyphen"/>neſs of the Land. Others think it was called <hi>Hoyland,</hi> which ſignifies <hi>Hayland.</hi> But the learned <hi>Junius</hi> is of another Opi<g ref="char:EOLhyphen"/>nion: For he believes that <hi>Holland</hi> and <hi>Zealand</hi> were Colonies of the <hi>Goths</hi> and <hi>Danes;</hi> who leaving their Iſlands <hi>Oland</hi> and <hi>Zealand</hi> in the <hi>Sound,</hi> called theſe ſo in remembrance of their own; as We and the <hi>Spaniards</hi> have lately done in <hi>America</hi> by <hi>New England</hi> and <hi>New Spain,</hi> &amp;c.</p>
+               <p>The circumference of this Country is about 240 Miles; but its bredth ſuch, that a man ſtanding in the middle of it might travel out of its bounds in three hours time. This Country is very fruitful for Corn, although not imployed to that produce. But the Land is uſed for Meadows for Paſturage of Cattle, in which the Soyl is incredibly rich, and brings up the beſt and largeſt Cows, which do afford in a Summers day 11 quarts of Milk apiece: So that <hi>John Benning</hi> is of opinion, that in the Village of <hi>Aſſendelft,</hi> and four other circumjacent Villages, is more Milk given, then there comes Rheniſh-wine to <hi>Dort</hi> from all <hi>Germany.</hi> Of their great abundance of Milk they make moſt excellent Butter, fit for the Palats of Princes; beſides
+<pb n="11" facs="tcp:66226:6"/>great numbers of Cheeſes, which for their worth may well compare either with them of <hi>Placencia,</hi> or thoſe cal<g ref="char:EOLhyphen"/>led <hi>Parmaſan.</hi> The choice are thoſe of <hi>Texel</hi> and <hi>Grave<g ref="char:EOLhyphen"/>land,</hi> next thoſe of <hi>Edam,</hi> eſpecially when they grow ſo me what old.</p>
+               <p>This Country brings up very gallant Horſes; And in the Sand-downs are an incredible number of Coneys. Here is alſo plenty of Harts, Hindes, and Hares; and particularly in the <hi>Hagues</hi> Woods are a great number of <hi>Roe-deer.</hi>
+               </p>
+               <p>Neither is here any want of Poultrey, eſpecially of Geeſe, Ducks, and Snipes. For Fuel here are Fens, which together with their Ditches afford abundance of Turf.</p>
+               <p>
+                  <hi>Holland</hi> hath formerly had Kings of their own, as is mentioned by <hi>Suetonius</hi> in the life of <hi>Caligula,</hi> Chap. 44. But was afterwards made an Earldom by <hi>Charles Calvo</hi> King of <hi>France,</hi> in the year 863.</p>
+               <p>The People were formerly fam'd for great Warriours.</p>
+               <p>The Cities of <hi>Holland</hi> are theſe: <hi>Dort, Harlem, Delft, Leyden, Amſterdam, Rotterdam, Goude, Naerden, Muyden, Weſop, Edam, Monickkendam, Purmerent, Alckmuer, Enckbuyſen,</hi> &amp;c.</p>
+               <p>
+                  <hi>Dort</hi> is the Head-City of <hi>Holland;</hi> a rich City, and ſo abounds in eatable Proviſions, that it may be accounted a Store-houſe for the circumjacent Places. It hath power to ſtop all forreign Commodities coming down the River; ſo that the Merchant is forced to ſell his Wares there, and is not permitted to tranſport them from thence but in Ships belonging to this City. This Priviledge is called <hi>Staple-right.</hi>
+               </p>
+               <p>
+                  <hi>Harlem</hi> is in reſpect of its bigneſs, neat Buildings, and commodious Scituation, a very brave City; and hath in it the beſt Church in all <hi>Holland,</hi> whoſe Foundation ſtands upon very ſtrong and Vaſt Pillars. It is held to be built by the <hi>Frieſlanders</hi> in the year 506. The <hi>Harlemers</hi> affirm that Printing was invented in this City.</p>
+               <p>
+                  <hi>Delft</hi> is the <hi>Dutch</hi> name for a Moat, from whence this City takes its name: for from the <hi>Maſe</hi> hither is led a Moat or Ditch.</p>
+               <pb n="12" facs="tcp:66226:7"/>
+               <p>
+                  <hi>Leyden,</hi> by <hi>Ptolony</hi> called <hi>Ladgduaum Batavorum,</hi> is a City lying on the middlemoſt <hi>Rbene.</hi> It is an Academy; And here is made great ſtore of Linnen and Woollen-Cloath.</p>
+               <p>
+                  <hi>Amſterdam</hi> takes its name from the <hi>Amabel.</hi> It was fortified about 300 years ago with Ports, Balwarks, Tow<g ref="char:EOLhyphen"/>ers, <hi>&amp;c.</hi> by the Heer <hi>Gijsbert van Amabel:</hi> But being by the ill will of their Neighbours burnt down, it was in the year 1482 encompaſſed with Walls; ſince which time it was made a City under the command of <hi>Hilland:</hi> And by the reſort of all Nations of the World, is become the moſt famous City for Trade of all the World.</p>
+               <p>
+                  <hi>Gowde</hi> takes its name from the <hi>Daniſh</hi> word <hi>Gouw,</hi> which ſignifies a Trench and Bank to contain it. It lies on the <hi>Yſſel,</hi> and is well provided with all things neceſſary.</p>
+               <p>
+                  <hi>Rotterdam,</hi> a City of great Trade, and is very full of <hi>Engliſh</hi> and <hi>Scotch</hi> Inhabitants.</p>
+               <p>Beſides theſe Cities, there are many Freedoms and un<g ref="char:EOLhyphen"/>walled Towns; among which the <hi>Hague</hi> is the moſt Famous: Here aſſemble all the States, and here the Princes Councel-Chamber is kept.</p>
+               <p>The Earldom of <hi>Holland</hi> is Governed by three Eſtates; as firſt the Nobility, of which are chief the Earls of <hi>Eg<g ref="char:EOLhyphen"/>mond, Ligny;</hi> to whom appertain the Lordſhips of <hi>Waſſe<g ref="char:EOLhyphen"/>naer, Valkenburg,</hi> and the Burg Earldom of the City of <hi>Leyden.</hi> Under <hi>Holland</hi> alſo are theſe Earldoms; <hi>Maeſtand, Goyland, Texel, Kennemeland,</hi> and <hi>Steenbergen;</hi> as alſo the Lordſhip and Barony of <hi>Brederode,</hi> to which belongs the Lordſhip of <hi>Vyanen,</hi> and the Barony of <hi>Lijsfelt.</hi> In the Chronicle of <hi>Holland</hi> are alſo found theſe Baronies; <hi>Leeke, Seven-bergen, Voorn, Yſſelleyn, Stryen, Teylingen, Putten, Harlem, Leerdam, Aſpheren, Arken, Altena</hi> and <hi>Rotterſleet.</hi>
+               </p>
+               <p>The ſecond Eſtates conſiſt of the Lords that appear at the <hi>Hague</hi> in the name of the States.</p>
+               <p>The third Eſtates are thoſe of the Head-Cities, who in the name of all the reſt appear at the <hi>Hague.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:66226:7"/>
+               <head>
+                  <hi>Of</hi> Zealand.</head>
+               <p>
+                  <hi>ZEaland</hi> in <hi>Dutch</hi> ſignines <hi>Land of the Sea,</hi> from whence this Province may have its name; but it is moſt probable it took its name from the <hi>Danes</hi> who came hither to inhabit, and called it after the name of the place from whence they came, as was ſaid before in the definition of <hi>Holland.</hi>
+               </p>
+               <p>
+                  <hi>Zealand</hi> conſiſts of ſeveral Iſlands ſcituate between the <hi>Maſe</hi> and the <hi>Schelde;</hi> bordering in the North on <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> in the Eaſt with <hi>Brabant</hi> in the South with <hi>Flanders,</hi> ad on the Weſt with the <hi>North Sea.</hi>
+               </p>
+               <p>The Air of <hi>Zealand</hi> is not ſo wholeſome as is the Air of its Neighbouring Countries, eſpecially in Summer, be<g ref="char:EOLhyphen"/>cauſe of the exhalations that riſe from the Boggs and Fens; But then the Air is not ready to take the infection of Plague, as other Places; yet having once taken it, it rages moſt exceſſive furiouſly.</p>
+               <p>This Country is very fruitful in Corn, eſpecially in Wheat, which is here as white and heavy as in any part of the World. The Soil is very fat, and fit for all Huſ<g ref="char:EOLhyphen"/>bandry.</p>
+               <p>Here grows much <hi>Coriander-ſeed,</hi> and <hi>Madder,</hi> a Dying-Stuff, in great Plenty. Here grows great and high Law<g ref="char:EOLhyphen"/>rels, and other Herbs uſed in Phyſick.</p>
+               <p>Here are very pleaſant Meadows for Cattle, not only within Incloſures, but on the Waſhes of the Sea, where ſeveral thouſands are Feeding, both large, fat, and of excel<g ref="char:EOLhyphen"/>lent relliſh.</p>
+               <p>In the year 863, in the Reign of the Emperour <hi>Charles Calvi,</hi> this Country, as well as <hi>Holland,</hi> was advanced to the Dignity of an Earldom; whoſe firſt Earl was <hi>Ded<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rick</hi> Son of <hi>Sigisbert</hi> Prince of <hi>Aquitane.</hi>
+               </p>
+               <p>Under <hi>Zealand</hi> are reckoned ſeven Iſlands; of which three lie in the mouth of the <hi>Schelde</hi> towards <hi>Holland,</hi> and are called <hi>Schouwe, Duyvenland,</hi> and <hi>Tertholen;</hi> four lie Weſtward of the <hi>Schelde,</hi> called <hi>Walcheren, South-Beveland, North-Beveland,</hi> and <hi>Wolferſdijk.</hi> The
+<pb n="14" facs="tcp:66226:8"/>Land of <hi>Schonwen</hi> is the biggeſt, whoſe circumference is now but 28 Miles, though tormerly it was longer, and only ſeparated by a ſmall Iſthmus from <hi>North-Beveland.</hi> The chief Towns are <hi>Zirick-zee</hi> and <hi>Brouwers-Haven.</hi>
+               </p>
+               <p>
+                  <hi>Zirick-zee</hi> is counted the ancienteſt Town in all <hi>Zea<g ref="char:EOLhyphen"/>land,</hi> and was Founded by one <hi>Siringue</hi> in the year 849. This hath been a flouriſhing Town of Trade, by reaſon of its good Haven, plenty of Commodities, and great num<g ref="char:EOLhyphen"/>ber of Merchants: But the Haven being much choaked up by the waſhing of Sand into it, it hath loſt much of its former Fame.</p>
+               <p>
+                  <hi>Duyven-land,</hi> ſo called from the multitude of Doves there: In this Land are many Villages, but no Cities or Towns. In the year 1530, this Iſland was grievouſly o<g ref="char:EOLhyphen"/>verflowed by the Sea, to the loſs of many People. But by mending and ſtrengthning the Banks, they have ſince kept out the Sea, and amply repaired their great damages.</p>
+               <p>
+                  <hi>Tolen</hi> is ſeparate from <hi>Brabant,</hi> but with a ſmall ſtrait of the Sea neer the Town of <hi>Tolen;</hi> ſo called, becauſe there they collected Toll of Paſſengers that paſſed over. It is an old Town, not far from</p>
+               <p>St. <hi>Martins Dijck,</hi> a very delightful place, and full of Trees.</p>
+               <p>
+                  <hi>Walcheren,</hi> the chief Iſland, ſo called by the firſt Inhabi<g ref="char:EOLhyphen"/>tants, the <hi>Waloons</hi> or <hi>Gauls.</hi> this Iſland is 40 Miles a<g ref="char:EOLhyphen"/>bout, and of great fame, in reſpect of its ſcituation, wealth, multitude of Inhabitants, Trade, and curioſity in their Ci<g ref="char:EOLhyphen"/>ties and Villages. It hath four Cities in it: <hi>Middleburg, Fluſhing, Vere,</hi> and <hi>Aerumnyden;</hi> beſides many Villages.</p>
+               <p>
+                  <hi>Middleburgh</hi> takes its name from its ſcituation, it be<g ref="char:EOLhyphen"/>ing a Burgh in the middle of the Iſland. It is a great City, well furniſhed with ordinary and extraordinary Build<g ref="char:EOLhyphen"/>ings, Bridges, Towers and Bulwarks. It is the chief City in <hi>Zealand,</hi> and a City of great Trade. Here was born <hi>Pulus à Middleburgo,</hi> a famous Mathematician.</p>
+               <p>
+                  <hi>Vere,</hi> or <hi>Camp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vere,</hi> takes its name from a Ferry, which the <hi>Zealanders</hi> call a <hi>Vere.</hi> It was firſt walled in the year 1358;
+<pb n="15" facs="tcp:66226:8"/>from which time it became a Town of Trade for <hi>Scotch</hi> Commodities.</p>
+               <p>
+                  <hi>Fluſhing</hi> is a new City, very ſtrong and powerful at Sea, full of Fiſhers, good Sea-men, and able Pilots.</p>
+               <p>
+                  <hi>Acrnmuyden</hi> is as a fore-guard to <hi>Middleburg,</hi> and is a good Haven for Ships.</p>
+               <p>
+                  <hi>South-Beveland</hi> ſtretches along the Coaſts of <hi>Flanders</hi> and <hi>Brabant,</hi> and hath in few years laſt paſt been above half ſwallowed up by the Sea. On this Iſland ſtood the City <hi>Romerſ-wale,</hi> waſht away with the Sea. And at this time all its Fields and Gardens are wholly ſwallowed p, ſo that the People about it live only upon the Salt-Trade. In this City the Earls of <hi>Zealand</hi> uſed to take the ordinary Oath.</p>
+               <p>
+                  <hi>Tergoes</hi> lies in the Weſt-part of this Iſland. It is a little city, but very pleaſant and rich: the Citizens are very friendly and courteous. It is the only City now left in this Iſland.</p>
+               <p>
+                  <hi>North-Beveland,</hi> which hath one City <hi>(Cortgene)</hi> and many Villages in it. This whole Iſland was in the year 1532 ſwallowed up by the Sea; but ſome of it is ſince re<g ref="char:EOLhyphen"/>covered.</p>
+               <p>
+                  <hi>Wolferts-Dijch,</hi> a very ſmall Iſland, having but two Vil<g ref="char:EOLhyphen"/>lages in it.</p>
+               <p>The Inhabitants of <hi>Zealand</hi> are careful, ingenious, and quick-witted, of middle Stature: yet their Chronicles make mention of a Gyantick woman born here, to whom the biggeſt men ſeemed but Dwarfs: ſhe was ſo ſtrong, that ſhe could carry two Tuns full of Beer in both her hands, and could carry a piece of Timber that eight men could not tear.</p>
+               <p>This People is very ſtrong at Sea, and have a particular faculty in cleanſing foul Salt, which is rought thither from Weſtward Countries to that purpoſe. Of <hi>Spaniſh</hi> or <hi>Britiſh</hi> Salt they will boyl 100 pound; and by pouring water on it, and boyling it, they will increaſe it to 145 pound of pure Salt as white as Snow: which Salt, for
+<pb n="16" facs="tcp:66226:9"/>whiteneſs and fineneſs, is a good Commodity all over <hi>Furope.</hi> They make alſo great profits of Corn, Madder, and by their great number of Sheep. They are very neat and curious in their Houſes and Houſe-keeping, and very eager after Trade and Commerce, and very charitable to the Poor.</p>
+               <p>The Politick State of <hi>Zealand</hi> conſiſts in three Eſtates: to wit, the Clergy; one Noble-man, which uſed to be the Marqueſs of <hi>Tervere,</hi> as a Repreſentative of all the Gentry; and the Community of the Cities.</p>
+            </div>
+            <div type="part">
+               <head>Of Frieſland.</head>
+               <p>THe name of <hi>Weſt-Frieſland</hi> hath been diverſly deriv'd: for ſome will have it from <hi>Friſia</hi> the Country of <hi>Phrygia;</hi> Others will have it from the bitter Froſts of this Country. <hi>Hadrianus Junius</hi> will have it call'd <hi>Frieſland,</hi> from the freedom the People of the Country live in. The <hi>Frieſlanders</hi> are accounted the ancienteſt People of all <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> and for their courage well known to the <hi>romans,</hi> who never changed their name.</p>
+               <p>The Air of this Country is tolerable wholeſom, and not ſubject to the vapours of the Fens and Mooraſſes, whoſe exhalations are cleanſed and putified by the ſmart Breeſes that this Country is uſed to.</p>
+               <p>The Soil of this Country is very low and Fenny, ſcarce to be uſed but in the Summer-time; and therefore produces little Corn, becauſe the Floods and yearly overflowings of the waters, which begin early and end late in the year, ſpoils the ſeed that is thrown into the Ground. Yet are there rich and fat Meadow-grounds which feed moſt ex<g ref="char:EOLhyphen"/>cellent Cattle, from whence the Inhabitants gather yearly great profits. It would almoſt ſeem incredible what quan<g ref="char:EOLhyphen"/>tities of excellent Butter and Cheeſe is yearly ſent from hence into other Countries, beſides what they ſpend them<g ref="char:EOLhyphen"/>ſelves for their own neceſſity.</p>
+               <p>The Fewel of this Country is Turf, in regard there are few Woods and no Coal among them.</p>
+               <pb n="17" facs="tcp:66226:9"/>
+               <p>This Province, till the time of <hi>Charles</hi> the Great, had Kings of their own.</p>
+               <p>In <hi>Weſt Frieſland</hi> are accounted twelve Cities.</p>
+               <p>
+                  <hi>Leuwarden</hi> is the chief City of all <hi>Frieſland;</hi> a rich city, with fair Houſes well furniſhed; is well defended with Moats and a C<g ref="char:EOLhyphen"/>ſtle. Here is the Chamber of Juſtice and the Chancery of <hi>Frieſland;</hi> from whoſe Decrees there is no Appeal.</p>
+               <p>
+                  <hi>Zurichem,</hi> the Native place of <hi>Verglius,</hi> lies hard by it.</p>
+               <p>
+                  <hi>Dockum</hi> lies in a fruitful Soyl, with fair Meadows about it.</p>
+               <p>
+                  <hi>Sneeck</hi> in the Earldom of <hi>Weſtergoe</hi> lies in low watery Grounds, ſo that no corn grows there; but it hath rich Meadow; to feed Cat<g ref="char:EOLhyphen"/>tle in. This City is quite new, and ſcarce above 200 years endow'd with the Title of a City. It is in proceſs of time ſo increas'd, that it may now compare with any city of <hi>Frieſland.</hi> Here was born <hi>Jo<g ref="char:EOLhyphen"/>achim Hopper, Petrus à Fermita, Albertus, Hero,</hi> and ſeveral other Learned men.</p>
+               <p>
+                  <hi>Staveren</hi> lies in a Plain, divided by Dijcks and Pools of Water. The chief ſtrength of this City is its Caſtle, ſtanding by the Ha<g ref="char:EOLhyphen"/>ven, and butting out into the Sea.</p>
+               <p>
+                  <hi>Harlingen</hi> lies on he mouth of the South-Sea in a fruitful Soyl: It is well defended with a Caſtle, and hath a good Haven, which brings a good Trade to this City.</p>
+               <p>
+                  <hi>Franiker,</hi> called ſo by the <hi>Francks:</hi> Here is an Univerſity.</p>
+               <p>The other Cities are <hi>Damme, Bolſwarden, Yeſt, Sloten, Worcum</hi> and <hi>Hendelopen.</hi>
+               </p>
+               <p>
+                  <hi>Frieſland</hi> hath many Iſlands belonging to it, among which <hi>Schel<g ref="char:EOLhyphen"/>ling</hi> is the chief, famous for the many Sea-Dogs that there come basking in the Sun-ſhine upon the Sea-ſhores, and are by the ſtrange hopping and dancing of the Country-people cloathed all over, dril<g ref="char:EOLhyphen"/>led ſo far aſhoar, that when they would retire to Sea again they are caught in Nets. On this Iſland the chief Town was burnt by the <hi>Engliſh,</hi> in the year 1665.</p>
+               <p>
+                  <hi>Frieſland</hi> is divided into three Eſtates. The firſt is the Earldom of <hi>Ooſtergow,</hi> of which <hi>Leuwarden</hi> is the chief City. It is ſubdivided into Grietonies; as <hi>Leuwarderdeel,</hi> in which is <hi>Leuwarden; Tietzerck<g ref="char:EOLhyphen"/>ſterdeel,</hi> in which is <hi>Tietzark; Ydarderdeel,</hi> in which is <hi>Ydaert; Rauwerderahem,</hi> in which is <hi>Rauwart; Ferwerderadeel,</hi> in which is
+<pb n="18" facs="tcp:66226:10"/>
+                  <hi>Ferwert; Dongerdeel,</hi> in which is <hi>Wetzens; Dantummadeel,</hi> in which is <hi>Dantummawolt; Acht Kerſpelen,</hi> in which is <hi>Suyrbuſum; Gomer<g ref="char:EOLhyphen"/>lant,</hi> in which is <hi>Collum; Weſterlant,</hi> in which is <hi>Beetz; Smalin<g ref="char:EOLhyphen"/>gerlant,</hi> in which is <hi>Smalingerbem.</hi>
+               </p>
+               <p>The ſecond State is the Earldom of <hi>Weſtergouw,</hi> under which are theſe Grietenies; <hi>Wonſeradeel,</hi> in which is <hi>Witmarſum; Franle<g ref="char:EOLhyphen"/>keradeel,</hi> in which is <hi>Franeker; Banadeel,</hi> in which is <hi>Mumerſgae; Meynaldummadeel,</hi> in which is <hi>Meynaldum; Baerdaradeel,</hi> in which is <hi>Baert; Hennardaradcel,</hi> in which is <hi>Hennaert; Weynbritzera<g ref="char:EOLhyphen"/>deel,</hi> in which is <hi>Gauve; Geeſterlant,</hi> in which is <hi>Wickel.</hi>
+               </p>
+               <p>The third State is the Earldom of <hi>Seven-wolden,</hi> having under it theſe Grietenies: <hi>Donye, Werſtal,</hi> in which is <hi>Donigae, Lemſter; Vuyfgae,</hi> in which is <hi>Lemmer; Aengewert,</hi> in which is <hi>Cathrybant; Schotterlant,</hi> in which is New and Old <hi>Schotten; Wittingerdeel,</hi> in which is <hi>Oldeborn; Haſſcher-Nyfgae,</hi> in which is <hi>Haſſcherborn.</hi>
+               </p>
+               <p>All <hi>Frieſland</hi> and <hi>Groeningen</hi> uſed formerly to be under the o<g ref="char:EOLhyphen"/>bedience of the Biſhop of <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Biſhoprick of <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi>
+               </head>
+               <p>
+                  <hi>HAdrianus Junius</hi> is of opinion that <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> took its name from a numerical Diſtinction that the <hi>Romans</hi> gave their Garriſons lying upon the <hi>Rhine:</hi> for in the place where this City ſtands, was quartered the five and thirtieth Legion, which they by abbreviating the words, thus wrote: <hi>
+                     <g ref="char:V">Ʋ</g>. TRIG. LEG. STAT.</hi> which at length is <hi>Quintae triceſima Legionis Statio; viz.</hi> the Quarters of the five and thirtieth Legion. Theſe half words have ſome unskill'd in the Latine Tongue taken for whole, and thought by leaving out the three Letters <hi>LEG,</hi> and coupling the reſt, they might well make it <hi>
+                     <g ref="char:V">Ʋ</g>trigſtat,</hi> which now is called <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi>
+               </p>
+               <p>Others write that the City of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> was at firſt called <hi>Anto<g ref="char:EOLhyphen"/>nina,</hi> from one <hi>Antonius</hi> a <hi>Roman</hi> Conſul, who becauſe of the ty<g ref="char:EOLhyphen"/>ranny of <hi>Nero</hi> the Emperour fled from <hi>Rome</hi> hither, and built this City: which was afterwards deſtroyed by the wilde people, and by them made a ſtrong Fortreſs, and from them was called <hi>Wiltenburgh.</hi>
+               </p>
+               <p>This Fortreſs <hi>Dagobert</hi> King of <hi>France</hi> took afterwards, made it much ſtronger then before, and called it <hi>Trajectum,</hi> ſignifying a paſſage or thorow-fare, becauſe it was ſo from all parts, as it ap<g ref="char:EOLhyphen"/>pears by a Table hanging up in the Cathedral Church at <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> written in old Latine Verſes.</p>
+               <pb n="19" facs="tcp:66226:10"/>
+               <p>The Biſhop <hi>Balderijck</hi> (who theſe Verſes ſay) encompaſſed this City with the Wall it now hath, repaired and mended the Cathe<g ref="char:EOLhyphen"/>dral; for which his generous and publique-ſpirited Actions, the Emperour <hi>Charles de Caluwe</hi> preſented him with the Cities of <hi>De<g ref="char:EOLhyphen"/>venter</hi> and <hi>Thielt,</hi> and the juriſdiction of the ſame.</p>
+               <p>That the City was of old called <hi>Antonina,</hi> appears by the afore<g ref="char:EOLhyphen"/>ſaid Verſes, and alſo by the Authority of many old Writers, and ſe<g ref="char:EOLhyphen"/>veral old Medals found thereabouts.</p>
+               <p>Its firſt Arch-biſhop was St. <hi>Willeboort</hi> an <hi>Engliſh Saxon,</hi> who came over in the year 690: ſince when, till the time of <hi>Frederick Tautenburgh</hi> the laſt Arch-biſhop of this City, it hath had dominion over the Biſhopricks of <hi>Holland, Zealand</hi> and <hi>Frieſland:</hi> But he dying in the year 1580, the Temporal States of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> took the Government into their own hands, and entred into Covenants of Union with the <hi>High and Mighty States of the <g ref="char:V">Ʋ</g>nited Netherlands.</hi>
+               </p>
+               <p>This City lies on an old Branch of the <hi>Rhine,</hi> which before it took its courſe into the <hi>Leck,</hi> paſſed by here, and from hence into the Sea. It is ſo commodiouſly ſeated, that from hence a man may travel in one days time to which one he will of fifty walled Cities equidiſtant round about it; or he may ſet out in the morning, and Dine at any one of 26 Cities, and come back again to Supper at night.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> is a great and ſtrong City; and before it fell from the King of <hi>Spain,</hi> it had a formidable Caſtle. The Cathedral Church is dedicated to St. <hi>Martin,</hi> and is a very brave and magnificent Building. The reſt of the Churches in <hi>
+                     <g ref="char:V">Ʋ</g>trecht,</hi> which are many, and thoſe very ſtately ones, we ſhall paſs by for brevities ſake.</p>
+               <p>The Provincial Court of Judicature is here kept; and conſiſts of one Preſident, nine Judges, and other Officers. The Citizens are very courteous, witty, and many of them very rich, but ſomewhat proud. When the Clergy were here in their ſplendour, this City was one of the moſt flouriſhing Cities in all the <hi>Netherlands.</hi>
+               </p>
+               <p>We come now to the ſmaller Towns of this Province; which are <hi>Wijk at Duerſtede,</hi> one of the oldeſt Towns of all <hi>Batavia;</hi> for<g ref="char:EOLhyphen"/>merly, as is ſaid, ſo great and powrful, that it had at leaſt 500 Temples in it; but afterwards deſtroy'd by the <hi>Normans.</hi> It is a to<g ref="char:EOLhyphen"/>lerable good Town, and rich, lying on the <hi>Leck</hi> a branch of the <hi>Rhine.</hi>
+               </p>
+               <pb n="20" facs="tcp:66226:11"/>
+               <p>
+                  <hi>Rhenen</hi> alſo an old Town, and, as it ſeems, called <hi>Grinnes</hi> by <hi>Cornelius Tacitus.</hi>
+               </p>
+               <p>
+                  <hi>Amersfort,</hi> a well-inhabited Town, and well accommodated with Proviſions; whoſe Inhabitants are naturally addicted to the wars.</p>
+               <p>
+                  <hi>Monifort,</hi> a brave and ſtrong Town, formerly appointed for a Frontier Town againſt <hi>Holland;</hi> with whom, becauſe the Empe<g ref="char:EOLhyphen"/>rour <hi>Charles de Caluwe</hi> had given a great part of the Biſhoprick, they kept a long and bloody War always ſtirring, to maintain their ancient Authority: And the <hi>Hollanders</hi> ſtirring induſtriouſly to keep what was granted them.</p>
+               <p>The City of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> was then ſo ſtrong, that Pope <hi>Pius</hi> the ſe<g ref="char:EOLhyphen"/>cond, who liv'd about the year 1450, writes, that the Biſhop could raiſe at once 40000 armed men of his own People. And though he were ſorely oppreſt by his Neighbours, to wit, the <hi>Hol<g ref="char:EOLhyphen"/>landers, Gelderlanders,</hi> and <hi>Frieſes;</hi> yet he could withſtand them all, and defend his City manfully againſt them.</p>
+            </div>
+            <div type="part">
+               <head>Of the Lordſhip of <hi>Overyſſel.</hi>
+               </head>
+               <p>
+                  <hi>OVeryſſel</hi> was called by the Latines <hi>Tranſiſulana,</hi> and as a tranſlate of the word, <hi>Overyſſel;</hi> becauſe it lies on the other ſide of the River <hi>Yſſel.</hi> It hath three good diviſions: to wit, <hi>Yſeland</hi> or <hi>Zalland, Drente,</hi> and <hi>Twente.</hi> It is a plain Country, very fruitful, and yields good Corn. It hath in it many ſmall Woods very profitable to the Inhabitants; and ten places that are indowed with large priviledges; as namely, <hi>Meppen, Geelmuyden, Coevorden, Hardenberge, Omme, Almeloo, Goor, Diepenhem, Delden,</hi> and <hi>En<g ref="char:EOLhyphen"/>ſchede.</hi> It hath eight walled Cities, and above two hundred Villages; among which, ſome are very great and fair ones. It conſiſts of two Eſtates: the firſt, of the Officers and Gentry; the other, of the three Cities <hi>Deventer, Campen,</hi> and <hi>Swolle.</hi>
+               </p>
+               <p>
+                  <hi>Deventer</hi> is a good and reaſonable big City, and very ſtrong; full of fair Houſes, and many publique Buildings; well inhabited, and full of People. On the North-weſt it lies on a ſandy Hill, but all the reſt of the City is encompaſſed with fair low Meadows, which o<g ref="char:EOLhyphen"/>verflow with the upper waters. The <hi>Yſſel</hi> running along the Key or Wharf on one ſide, ſerves it as a Moat. The other ſides of it are ſtrengthened in part with a deep Moat, and in part with a broad Haven. Its walls are high, and thick ſet with Towers, and many
+<pb n="21" facs="tcp:66226:11"/>Bulwarks, and other ſtrong Fortifications. It is a City of great Trade, by reaſon that it and the two other chief Cities of this Country have had an ancient confederacy with the Hanſe or <hi>Aen<g ref="char:EOLhyphen"/>zce</hi> Towns, and were in the year 1495 put into the number of the free Imperial Cities, and endowed with many large Priviledges.</p>
+               <p>
+                  <hi>Campen</hi> (though it be accounted in <hi>Overyſſel,</hi> yet it lies on this ſide the <hi>Yſſel</hi>) is a great and fair City, and well Traded: yet for<g ref="char:EOLhyphen"/>merly, before the waters were grown ſo ſhallow, it had a far greater Trade than now. It is well fortified with Walls, Towers, Moats and Bulwarks. It lies low on the Waſh of the River, which is very broad in that place; which is a great ſtrength to the City, becauſe the Citizens can when they pleaſe, ſet it under water. In the mid<g ref="char:EOLhyphen"/>dle of it there is a fair ſtrong Bridge over the River, whoſe Locks are 90 Foot wide.</p>
+               <p>Some think this was the Road of <hi>Ptolomies</hi> Ships: Others hold it to be the Port or Haven of <hi>Manarmanis.</hi>
+               </p>
+               <p>
+                  <hi>Zwol</hi> lies on a Rivolet which falls into the <hi>Vider</hi> or <hi>Vecht.</hi> It is a good and ſtrong City, having double Moats and Walls. This City for its ſtrength uſed to be the retreat and refuge of thoſe of <hi>Vollenhove,</hi> the common reſidence of the Governour and Councel of <hi>Overyſſel</hi> in all times of War and Danger.</p>
+               <p>
+                  <hi>Vollenhoven</hi> lies upon the South-Sea. A good city, and well fur<g ref="char:EOLhyphen"/>niſh'd by Water and Land with all neceſſary Proviſions. Here re<g ref="char:EOLhyphen"/>ſides, as aforeſaid, the Provincial Councel of <hi>Overyſſel,</hi> from whoſe Decrees there is no Appeal.</p>
+               <p>
+                  <hi>Steenwijck</hi> ſeems to be an old City, though ſmall. The Soyl a<g ref="char:EOLhyphen"/>bout it is rich in corn, and affords in ſome places ſtore of Turf, whereby the City hath a reaſonable Trade. It uſed formerly to be a weak City: but ſince the Wars with <hi>Spain,</hi> it is grown very ſtrong. It hath formerly had a Caſtle, but deſtroy'd in the year 1523.</p>
+               <p>
+                  <hi>Haſſelt</hi> is a good, reaſonable rich, and ſtrong City.</p>
+               <p>The old Village <hi>Ootmarſen</hi> was, as <hi>Trithemius</hi> writes, founded by <hi>Odemar</hi> King of <hi>France,</hi> from whom it hath its name: He built it upon the Grave of his ſpecial Friend <hi>Vechtan.</hi>
+               </p>
+               <p>
+                  <hi>Oldeſeel</hi> is held to take its name from the People of old called <hi>Salii:</hi> it is a ſmall Village; and is the onely Village of <hi>Overyſſel</hi> that is under the command of the Arch-Duke, who ordinarily keeps a Garriſon here.</p>
+               <pb n="22" facs="tcp:66226:12"/>
+               <p>
+                  <hi>Meppel</hi> is the firſt place in freedom of <hi>Overyſſel;</hi> an unwalled Town.</p>
+               <p>
+                  <hi>Gectmaryden,</hi> a good and ſtrong Caſtle.</p>
+               <p>
+                  <hi>Coev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rden,</hi> a very ſtrong and famous place, is the common thorow-fare for thoſe that travel from <hi>Frieſland,</hi> the <hi>Onmelands, Drenthe,</hi> and <hi>Overyſſel,</hi> towards <hi>Germany.</hi> It hath in the North-Eaſt a continual Mooraſs as far as to <hi>Wedden;</hi> in the Weſt a ſtanding water, which reaches beyond <hi>Haſſelt</hi> and <hi>Swarteſlays.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>of the Earldom of <hi>Zatphen.</hi>
+               </head>
+               <p>
+                  <hi>ZUtphen</hi> is the Head-City of the third quarter of the Dukedom of <hi>Gelder.</hi> It is honoured with the Title of an Earldom, and preſides over the Cities of <hi>Does urgh, Dodecum, Lochem, Grolle, Brevoordt,</hi> and <hi>Bro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ckhurſt;</hi> which laſt City is accounted an Earldom of it ſelf. As alſo is <hi>s'Herenberg</hi> accounted a particu<g ref="char:EOLhyphen"/>lar Earldom in the quarter of <hi>Zutphen.</hi>
+               </p>
+               <p>The City of <hi>Zutphen</hi> is ſo called, as ſome write, becauſe it lies in a low quagmiry Soyl, as if they would ſay, <hi>Zayd-veers,</hi> or South-Fen in Engliſh. It is a good, famous, well-timber'd, and ſtrong City; well fortified with Moats and Bulwarks on one ſide, and on the other with Quagmires. It lies on the right ſide of the <hi>Yſſel,</hi> which <hi>Pliay</hi> and <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>la</hi> ſay is a branch of the <hi>Rhint,</hi> and call it <hi>Flevam;</hi> for inwards flows the <hi>Berkel,</hi> which mingles its Water with the <hi>Yſſel.</hi> It was in former times very rich and Powerful, as their Proverb witneſſeth: <hi>Nimmegen</hi> the oldeſt, <hi>Ruermond</hi> the greateſt, <hi>Zutphen</hi> the richeſt, and <hi>Acrnhem</hi> the pleaſanteſt. The chief Church is dedicated to the honour of St. <hi>Walburgh.</hi> It is an old Church, and well built for matter and form, according to the fa<g ref="char:EOLhyphen"/>ſhion of the old and firſt Chriſtian times.</p>
+               <p>The Earldom of <hi>Zutphen</hi> came under the Dukedom of <hi>Gelder</hi> by the marri<g ref="char:EOLhyphen"/>age of <hi>Otto</hi> the firſt <hi>Gelders</hi> Earl with the Daughter of <hi>Gerlack</hi> Earl of <hi>Zut<g ref="char:EOLhyphen"/>phen,</hi> about the year 1082.</p>
+               <p>
+                  <hi>Doesburgh,</hi> as ſome Authors of theſe times ſay, is the ſame City that <hi>Cornelius Tacitus</hi> calls <hi>Aſciburgum:</hi> it is a populous City, and in the laſt War with the Spaniards made very ſtrong, to ſerve for a Fortreſs or Bulwark for the quarter of <hi>De Velnwe.</hi>
+               </p>
+               <p>
+                  <hi>Dotecum,</hi> a pretty good City hard by it. Earl <hi>Hendrick</hi> of <hi>Gelder</hi> raiſed that fa<g ref="char:EOLhyphen"/>mous cloiſter of <hi>Bethlebem,</hi> which in the laſt <hi>Spaniſh</hi> troubles was moſt deſtroy'd.</p>
+               <p>
+                  <hi>Lochem,</hi> a ſtrong and well-ſcituate Town, which during the aforeſaid Wars was often taker on both ſides.</p>
+               <p>
+                  <hi>Grolle,</hi> a very ſtrong Town, was conquered by the States of the <hi>United Ne<g ref="char:EOLhyphen"/>therlands</hi> in the year 1627.</p>
+               <p>
+                  <hi>Bredevoort</hi> alſo, a very ſtrong and well-provided Town.</p>
+               <p>
+                  <hi>Brenckburſt</hi> a good Town, raiſed as is ſaid to a particular Earldom.</p>
+               <p>
+                  <hi>S'Heren-berge,</hi> a good Town, having under its Authority much Land at great diſtance from it; ſo that it hath the Title of an Earldom, formerly belong<g ref="char:EOLhyphen"/>ing to its own Lord the Earl <hi>William,</hi> a brave Prince.</p>
+            </div>
+            <div type="part">
+               <head>Of the Lordſhip of <hi>Grotaingen.</hi>
+               </head>
+               <p>
+                  <hi>GRoeniagen,</hi> with its circumjacent Countries and Villages, which are great and many, and commonly called <hi>de Q<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>elandea;</hi> though it be ſo inter<g ref="char:EOLhyphen"/>mixt and united with <hi>Frieſland,</hi> that many think it to be part of that Country, is nevertheleſs a State of it ſelf, and uſed to Lave a Lord of their own, whom they gave a particular Title to: And as they are now under the High and righty States General of the <hi>Unit<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Notherland,</hi> have their Voice among them,
+<pb n="23" facs="tcp:66226:12"/>and ſend their Deputies to the <hi>Hague.</hi> It is not only the Head-City, but the only City of this Country; and as ſome hold, called of <hi>Ptolomy, Phileum;</hi> of <hi>Pliny, Phylleum.</hi> It took its name from <hi>Grunias</hi> a <hi>Trojan</hi> Gentleman, or as <hi>Munſter</hi> writes a <hi>French</hi> Gentleman: which opinions may both be true, ſince the <hi>French</hi> confidently affirm they had their original from the <hi>Trojans.</hi> The <hi>Frieſe</hi> Hiſtoriographers hold that this <hi>Grunius</hi> was the ſon of <hi>Gailo,</hi> and that his great Grandfather was called <hi>Friſo,</hi> from whom <hi>Frieſland</hi> ſeems to have taken its name: which <hi>Grunius</hi> having this ſmall, but brave quarter for his ſhare, built this City of <hi>Groeningen,</hi> and called it after his own name.</p>
+               <p>It hath many flowing and ſtanding Waters, led to it by many great Rivers, part made by Nature, and part by mens hands. It is a large, fair, Populous and ſtrong City, full of brave and Lordlike Houſes. Its chief Church is a very ſtately building, and dedicated to the honour of St. <hi>Martin,</hi> and was formerly under the Biſhoprick of <hi>Munſter</hi> in <hi>Weſtphalia,</hi> but was, by King <hi>Philip</hi> the ſecond, it ſelf ad<g ref="char:EOLhyphen"/>vanced to the Honour of a Biſhops See. That learned man <hi>Rodolphus Agricola</hi> was a Citizen of this City, who with his own hands made an Organ which is yet to be ſeen here, as a great rarity.</p>
+               <p>In the year 1614, the States General erected an Univerſity in this City, and have ſpared no coſt to furniſh it with Learned men from all parts.</p>
+               <p>The Authority of this City is very great, and extends it ſelf very far: For firſt, it hath Eaſtwards and Weſtwards under its juriſdiction a very large Country, and many Villges in it; Northwards it hath acknowledgment from all the Country that lies between its Walls and the Sea; which is a very fat ſoil, and eſpecially good for the feeding of Cattle. This Country, as was ſaid, is called the <hi>Ommelanden.</hi>
+               </p>
+               <p>In <hi>Groeningen</hi> the People live very handſomly, like Citizens, as in a free Re<g ref="char:EOLhyphen"/>publique: for the City hath great Priviledges and Franchiſes from their Princes, Judging all Cauſes both Civil and Criminal according to their own Laws; the Princes keeping there only a Stadt-holder, as the States General do in Civil Cauſes; but in Criminal they act according to their own pleaſure, ſhewing Mercy or Juſtice to whom they pleaſe, even as abſolute and Sovereign Lords do. They uſed to pay their Prince but 12000 Gilders a year.</p>
+               <p>
+                  <hi>Dam</hi> is a ſmall Village, though it hath formerly been a conſiderable Town: for in the year 1536, its Walls were broken down by the Emperours Forces and, as is ſaid, are not to be re edified, or a Moat to be made about it. It ſuffered alſo much in the foreſaid <hi>Spaniſh</hi> Troubles.</p>
+               <p>
+                  <hi>Delf-ziel,</hi> a handſome Village lying on the waſh of the Sea, hath formerly been a ſtrong Hold, but ſeveral times demoliſhed and rebuilt. It ſuffered alſo very much in the laſt ſpaniſh Troubles.</p>
+            </div>
+            <div type="part">
+               <head>Of the aſſociated Cities and Countries.</head>
+               <p>
+                  <hi>S'Hertogenboſch,</hi> or <hi>Boiſleduc</hi> hath four Members under it; <hi>Kempenland, Peeland, Maeſland,</hi> and the Land of <hi>Ooſterwijck;</hi> in which lie the Towns of <hi>Helmont, Eyndhoven, Megem,</hi> and <hi>Grave. s'Hertogeaboſch</hi> hath its name from a Wood which formerly ſtood there, belonging to the Duke of <hi>Brabant: Boſch</hi> in that Lan<g ref="char:EOLhyphen"/>guage being called a Wood, and <hi>Hertogh</hi> a Duke; ſo that it is <hi>Dukes wood;</hi> or, as the French call it, <hi>Boiſleduc.</hi> It is a great, brave, ſtrong, populous, rich, and well-moated City, which hath ſeveral times been inlarged: it is ſix miles in Cir<g ref="char:EOLhyphen"/>cumference; hath ſeven Gates, and as many Bulwarks. It hath very ſtrong
+<pb n="24" facs="tcp:66226:13"/>Wall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 38 Wooden-Bridges; many fair Churches, Cloy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other places of devotion. It was made a Biſhoprick in the year 1554; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hedral Church is dedicated to the honour of St. <hi>John.</hi> The People are notable Warricurs, and lived much upon Plunder, till in the year 1629 <hi>Frederick Heanrick</hi> Prince of <hi>Orange</hi> after a ſevere Siege reduced it to the obe<g ref="char:EOLhyphen"/>dience of the States General.</p>
+            </div>
+            <div type="part">
+               <head>Of the Marquiſateſhip of <hi>Bergen-Op-Zoom.</hi>
+               </head>
+               <p>
+                  <hi>BErgen</hi> is called <hi>Bergen-Op-Zoome,</hi> becauſe it lies on the River <hi>Zoome.</hi> It was advanced to the dignity of a Marquiſateſhip by the Emperour <hi>Charles</hi> the fifth, in the year 1513. It lies ſo near the Sea, that it may be accounted a<g ref="char:EOLhyphen"/>mong the Sea-Towns. It is now one of the ſtrongeſt Frontier-Towns of the <hi>tenited Notherlands.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Barony of <hi>Breda.</hi>
+               </head>
+               <p>
+                  <hi>BReda</hi> lies upon the ſmall River of <hi>Mercke.</hi> It is a pleaſant city, in which, among other fair Buildings, is to be ſeen the Palace of the Barons of the ſame place, who are ſprung from the Imperial Houſe of <hi>Naſſow.</hi> This Palace was firſt founded by one Earl <hi>Hendrick</hi> of <hi>Naſſow.</hi> It hath double Moats full of Water, as about a Caſtle. The City is ſo well furniſhed with Ravelins and Bul<g ref="char:EOLhyphen"/>warks, that now it is reckoned one of the ſtrongeſt Places of the <hi>United Nether<g ref="char:EOLhyphen"/>lands.</hi> The Barony ſtretches far, and hath great Revenues; to which is incorpo<g ref="char:EOLhyphen"/>rated the Lordſhip of <hi>Steenberg, Roſendal,</hi> and <hi>Ooſterbout.</hi> It is famous for the two great Sieges laid to it, by the Marquiſs <hi>Spinola,</hi> and the Prince of <hi>Orange.</hi> It belongs to the Prince of <hi>Orange.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the City of <hi>Maeſtricht.</hi>
+               </head>
+               <p>
+                  <hi>MAeſtricht</hi> is an old, large, fair, and well-ſcituated <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking its name from the <hi>Maſe,</hi> whoſe ſtream divides it in the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> laid over with fair Sto<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bridges. In this City are two Churches of Canons, in one of which (na<g ref="char:EOLhyphen"/>med St. <hi>Servaes</hi>) the Duke of <hi>Brabant</hi> uſed to be Canon. Here is alſo the ſtately Houſe of <hi>Biſſen,</hi> ſufficient to entertain a King and all his Retinue. This City was reduced to the obedience of the States General in the year 1632.</p>
+            </div>
+            <div type="part">
+               <head>Of the Earldom of <hi>Vroon-bof,</hi> the Town of <hi>Grave,</hi> and Land of <hi>Kuyck.</hi>
+               </head>
+               <p>
+                  <hi>GRave</hi> is a ſmall but ſtrong Town. It is the Head-Town of the Land of <hi>Knyck,</hi> and accounted one of the ſtrongeſt T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns of the <hi>United Netherlands.</hi>
+               </p>
+               <p>
+                  <hi>Roofendal</hi> is a very fair Village lying on a River that abounds in Shipping. It belongs to the Prince of <hi>Orange.</hi>
+               </p>
+               <p>
+                  <hi>Lille</hi> lies on the <hi>Scbelde.</hi> It hath been a very fair Lordſhip: but ſince the aofreſiad Spaniſh Trobles, it is made a great, ſtrong, and invincible Fort.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In</hi> Flanders.</head>
+               <p>
+                  <hi>Hulſt,</hi> a reaſonable ſtrong and good Town, is one of the four <hi>Ambachts;</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> under it twelve Villages: It was reduced to the obedience of the States General, as alſo was <hi>Ses van Gent,</hi> in the years 1644, 1645. <hi>Axele,</hi> alſo a reaſchable good Town, but not walled about. It is alſo one of the four <hi>Ambachts,</hi> and hath under it ſeven Villages. <hi>Sluys</hi> in <hi>Zealand</hi> hath o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the faireſt and ſtrongeſt Sea Havens in all <hi>Europe,</hi> in which 500 Ships may eaſily ride. It is double-wall'd, and is ſo ſtrong a Town, that it is counted invincible. Right againſt <hi>Slays,</hi> is the Iſland <hi>Caſant,</hi> with a Village of the ſame name. Hereabeuts is the Forts and Places of <hi>Aerdt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>borg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> a ſmall Village; <hi>Oſ<g ref="char:EOLhyphen"/>ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dijck, ter Neuſe,</hi> the <hi>Philippines, Biervlient,</hi> formerly a good Town, but now a ſtrong <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orfication. All which we ſhall for bravlty here paſs by, and reſer you to the May, wherein you find the ſcituation of every City, Town, Village, and places of ſmaller Note, throughout the whole <hi>United Netherlands.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
